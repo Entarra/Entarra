@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm just a silly, self-taught "programmer" that mostly write little greasemonkey scripts to tweak and "hack" websites I frequent.
+As such I mainly write in Javascript, but know some CSS and HTML too, even if I'm well behind the current spec on all three.
+
 <!--
 **Entarra/Entarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
