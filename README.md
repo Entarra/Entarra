@@ -3,6 +3,7 @@
 I'm just a silly, self-taught "programmer" that mostly write little greasemonkey scripts to tweak and "hack" websites I frequent.
 As such I mainly write in Javascript, but know some CSS and HTML too, even if I'm well behind the current spec on all three.
 
+Won't be a ton to see in here as most of my projects are private little things for me and my guild on Lyrania.co.uk, but we'll see where things go.
 <!--
 **Entarra/Entarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
